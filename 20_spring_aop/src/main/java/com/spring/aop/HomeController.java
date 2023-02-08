@@ -39,6 +39,10 @@ public class HomeController {
 		manager.getInfo("매니저", 700);
 		employee.getInfo("직원", 300);
 		
+		System.out.println("\n=======================\n");
+
+//		employee.getError();
+		
 		return "home";
 		
 	}

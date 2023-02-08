@@ -20,4 +20,8 @@ public class Employee {
 		
 	}
 	
+	public void getError() {
+		System.out.println(1 / 0); 	// 일부러 에러내기 작업
+	}
+	
 }

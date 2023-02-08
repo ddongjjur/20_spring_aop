@@ -51,7 +51,7 @@
 	
 	<!-- Application Loggers -->
 	<logger name="com.spring.aop">
-		<level value="info" />
+		<level value="warn" />
 	</logger>
 	
 	<!-- 3rdparty Loggers -->
